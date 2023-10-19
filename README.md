@@ -1,16 +1,9 @@
-# simple_bubble_trouble
+# Simple Bubble Trouble
 
-A new Flutter project.
+Simple Bubble Trouble
 
-## Getting Started
+![3](https://github.com/BilalSevinc16/Simple_Bubble_Trouble/assets/146417248/f3c8c575-c1ac-4ba4-bc25-cd6570372c7e)
 
-This project is a starting point for a Flutter application.
+![5](https://github.com/BilalSevinc16/Simple_Bubble_Trouble/assets/146417248/e2ef9b82-f48c-47ec-a92c-8e5de0329be5)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2](https://github.com/BilalSevinc16/Simple_Bubble_Trouble/assets/146417248/bd1a9784-9b10-45f3-b23d-e9551b6d45e4)
